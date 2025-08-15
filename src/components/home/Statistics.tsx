@@ -1,4 +1,3 @@
-import React from 'react';
 import { TrendingUp, Users, Home, Award, Clock, MapPin } from 'lucide-react';
 
 const Statistics = () => {

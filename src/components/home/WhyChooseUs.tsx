@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Shield, Award, Users, Clock, TrendingUp, MapPin, Calculator, MessageSquare } from 'lucide-react';
 
 const WhyChooseUs = () => {

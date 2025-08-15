@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Search, Eye, FileCheck, Key } from 'lucide-react';
 
 const HowItWorks = () => {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Search, MapPin, Home, Building } from 'lucide-react';
 import homeImage from '../../assets/home.jpg'; // Correct path from components/home/ to assets/
 

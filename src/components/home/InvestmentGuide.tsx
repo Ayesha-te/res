@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { TrendingUp, DollarSign, PieChart, BarChart3, Target, BookOpen } from 'lucide-react';
 
 const InvestmentGuide = () => {

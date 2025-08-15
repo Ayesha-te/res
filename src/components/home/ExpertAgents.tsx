@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Star, Phone, Mail, MapPin, Award, Users, TrendingUp } from 'lucide-react';
 
 const ExpertAgents = () => {

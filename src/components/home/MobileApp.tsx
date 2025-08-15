@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Smartphone, Download, Search, Bell, MapPin, Star } from 'lucide-react';
 
 const MobileApp = () => {

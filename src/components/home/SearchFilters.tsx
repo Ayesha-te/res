@@ -1,5 +1,4 @@
-import React from 'react';
-import { Filter, SlidersHorizontal, MapPin, DollarSign, Calendar, Square } from 'lucide-react';
+import { Filter, MapPin, DollarSign, Calendar, Square } from 'lucide-react';
 
 const SearchFilters = () => {
   return (

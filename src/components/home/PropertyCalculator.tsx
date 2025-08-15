@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Calculator, DollarSign, Home, TrendingUp, PieChart } from 'lucide-react';
 
 const PropertyCalculator = () => {

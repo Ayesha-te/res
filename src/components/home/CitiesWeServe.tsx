@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { MapPin, Building, Home, TrendingUp } from 'lucide-react';
 
 const CitiesWeServe = () => {

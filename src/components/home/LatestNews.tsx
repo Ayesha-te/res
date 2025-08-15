@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Calendar, User, ArrowRight, TrendingUp, MapPin, DollarSign } from 'lucide-react';
 
 const LatestNews = () => {

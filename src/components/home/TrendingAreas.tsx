@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { TrendingUp, MapPin, DollarSign, BarChart3 } from 'lucide-react';
 
 const TrendingAreas = () => {

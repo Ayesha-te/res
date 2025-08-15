@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Community = () => {
   return (
     <div className="min-h-screen bg-slate-900 pt-20">
