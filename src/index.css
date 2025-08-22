@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Normalize number inputs and prevent spinner/buttons appearance */
+input[type="number"] {
+  -moz-appearance: textfield; /* Firefox */
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none; /* Chrome, Safari, Edge */
+  margin: 0;
+}
+
+/* Ensure form controls align visually */
+select,
+input,
+button {
+  line-height: 1.25rem; /* ~20px */
+}
